@@ -1,0 +1,192 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="29" />
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+8-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+9
+10    <uses-feature android:glEsVersion="0x00030000" />
+10-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+10-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+11    <uses-feature
+11-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+12        android:name="android.hardware.vulkan.version"
+12-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+13        android:required="false" />
+13-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+14    <uses-feature
+14-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+15        android:name="android.hardware.touchscreen"
+15-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+16        android:required="false" />
+16-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+17    <uses-feature
+17-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+18        android:name="android.hardware.touchscreen.multitouch"
+18-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+19        android:required="false" />
+19-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+20    <uses-feature
+20-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+21        android:name="android.hardware.touchscreen.multitouch.distinct"
+21-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+22        android:required="false" />
+22-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+23
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-63
+24-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:20-60
+25
+26    <uses-feature
+26-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-85
+27        android:name="android.hardware.camera.ar"
+27-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-58
+28        android:required="true" />
+28-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:59-82
+29
+30    <application
+30-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-32:17
+31        android:appCategory="game"
+31-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-42
+32        android:enableOnBackInvokedCallback="true"
+32-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:43-85
+33        android:extractNativeLibs="true" >
+33-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:86-118
+34        <meta-data
+34-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+35            android:name="unity.splash-mode"
+35-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+36            android:value="0" />
+36-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+37        <meta-data
+37-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+38            android:name="unity.splash-enable"
+38-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+39            android:value="True" />
+39-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+40        <meta-data
+40-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+41            android:name="unity.launch-fullscreen"
+41-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+42            android:value="True" />
+42-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+43        <meta-data
+43-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+44            android:name="unity.render-outside-safearea"
+44-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-60
+45            android:value="True" />
+45-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:61-81
+46        <meta-data
+46-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+47            android:name="notch.config"
+47-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+48            android:value="portrait|landscape" />
+48-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+49        <meta-data
+49-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+50            android:name="unity.auto-report-fully-drawn"
+50-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+51            android:value="true" />
+51-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+52        <meta-data
+52-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+53            android:name="unity.strip-engine-code"
+53-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+54            android:value="true" />
+54-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+55        <meta-data
+55-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-80
+56            android:name="unity.auto-set-game-state"
+56-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-56
+57            android:value="true" />
+57-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:57-77
+58
+59        <activity
+59-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-29:16
+60            android:name="com.unity3d.player.UnityPlayerGameActivity"
+60-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:312-369
+61            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+61-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:15-196
+62            android:enabled="true"
+62-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:197-219
+63            android:exported="true"
+63-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:220-243
+64            android:hardwareAccelerated="false"
+64-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:244-279
+65            android:launchMode="singleTask"
+65-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:280-311
+66            android:resizeableActivity="true"
+66-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:370-403
+67            android:screenOrientation="reverseLandscape"
+67-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:404-448
+68            android:theme="@style/BaseUnityGameActivityTheme" >
+68-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:449-498
+69            <intent-filter>
+69-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-22:23
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-69
+70-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:19-66
+71
+72                <action android:name="android.intent.action.MAIN" />
+72-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-61
+72-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-58
+73            </intent-filter>
+74
+75            <meta-data
+75-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-82
+76                android:name="unityplayer.UnityActivity"
+76-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-58
+77                android:value="true" />
+77-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:59-79
+78            <meta-data
+78-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-77
+79                android:name="android.app.lib_name"
+79-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-53
+80                android:value="game" />
+80-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:54-74
+81            <meta-data
+81-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-130
+82                android:name="WindowManagerPreference:FreeformWindowSize"
+82-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-75
+83                android:value="@string/FreeformWindowSize_maximize" />
+83-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:76-127
+84            <meta-data
+84-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-145
+85                android:name="WindowManagerPreference:FreeformWindowOrientation"
+85-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-82
+86                android:value="@string/FreeformWindowOrientation_landscape" />
+86-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:83-142
+87            <meta-data
+87-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:7-70
+88                android:name="notch_support"
+88-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:18-46
+89                android:value="true" />
+89-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:47-67
+90
+91            <layout
+91-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:7-68
+92                android:minHeight="300px"
+92-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:15-40
+93                android:minWidth="400px" />
+93-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:41-65
+94        </activity>
+95
+96        <meta-data
+96-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-88
+97            android:name="unityplayer.SkipPermissionsDialog"
+97-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-64
+98            android:value="true" />
+98-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:65-85
+99        <meta-data
+99-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-77
+100            android:name="com.google.ar.core"
+100-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-49
+101            android:value="required" />
+101-->C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:50-74
+102    </application>
+103
+104</manifest>
