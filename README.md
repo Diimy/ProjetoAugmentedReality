@@ -1,4 +1,4 @@
-# Projeto Augmented Reality - 🧠 Ecos da Memória 
+# Projeto Augmented Reality - 🧩 Ecos da Memória 
 
 
 ## ⭐ Premissa do projeto
