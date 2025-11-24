@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.unity.xr-content.xr-sim-environments": {
+      "tarball": {
+        "hash": "f497ac87de2d2db0ddb966253b9cd22e",
+        "mtime": 1763956648427,
+        "size": 40522750,
+        "localPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\ContentPackages\\com.unity.xr-content.xr-sim-environments-2.1.1.tgz"
+      }
+    }
+  }
+}
