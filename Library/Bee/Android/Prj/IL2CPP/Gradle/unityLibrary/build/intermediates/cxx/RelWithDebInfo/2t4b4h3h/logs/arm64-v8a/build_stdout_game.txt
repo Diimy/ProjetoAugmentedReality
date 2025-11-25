@@ -1,2 +1,0 @@
-ninja: Entering directory `C:\Users\dimit\Documents\GitHub\ProjetoAugmentedReality\.utmp\RelWithDebInfo\2t4b4h3h\arm64-v8a'
-ninja: no work to do.
