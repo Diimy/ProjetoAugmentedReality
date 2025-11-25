@@ -17,3 +17,4 @@ Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/d4945d2cf07
 Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/f48430db7d28e93c331aa2369106fad1/transformed/bundleLibRuntimeToDirRelease/bundleLibRunti…/UnityPlayerGameActivity$GameActivitySurfaceView.dex filter=lfs diff=lfs merge=lfs -text
 Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/f48430db7d28e93c331aa2369106fad1/transformed/bundleLibRuntimeToDirRelease/bundleLibRuntimeToDirRelease_dex/com/u…/UnityPlayerGameActivity.dex filter=lfs diff=lfs merge=lfs -text
 Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/runtime_library_classes_dir/release/bundleLibRuntimeToDirRelease/com/unity3d/player/UnityPlayerGameActivity$GameActivitySurfaceView.class filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
