@@ -16,5 +16,5 @@
   --ndk-version ^
   27 ^
   --output ^
-  "C:\\Users\\dimit\\AppData\\Local\\Temp\\agp-prefab-staging5383530186791526871\\staged-cli-output" ^
+  "C:\\Users\\dimit\\AppData\\Local\\Temp\\agp-prefab-staging4236824622593990729\\staged-cli-output" ^
   "C:\\Users\\dimit\\.gradle\\caches\\8.13\\transforms\\1e7cc65d4e74b23bd94dca9ec0ac2eb3\\transformed\\jetified-games-activity-3.0.5\\prefab"

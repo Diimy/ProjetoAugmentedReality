@@ -593,6 +593,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.PhysicsRaycaster",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Font",
             "fullManagedTypeName": "UnityEngine.Font",
@@ -1525,6 +1532,69 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.InputActionManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.Hands.HandExpressionCapture",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.SimulatedDeviceLifecycleManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.SimulatedHandExpressionManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulatorSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRInteractionSimulator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Samples.InteractionSimulator.XRInteractionSimulatorInputFeedbackUI",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.Interaction.Toolkit.Samples.InteractionSimulator.XRInteractionSimulatorPlayModeMenu",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "Unity.XR.Management.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.XR.Management.XRGeneralSettings",
@@ -1535,6 +1605,174 @@
             "managedAssemblyName": "Unity.XR.Management.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.XR.Management.XRManagerSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.AutomaticDynamicResolutionFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.ConformanceAutomation.ConformanceAutomationFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Extensions.PerformanceSettings.XrPerformanceSettingsFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.FoveatedRenderingFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.DPadInteraction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.EyeGazeInteraction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.HandCommonPosesInteraction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.HandInteractionProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.HPReverbG2ControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.HTCViveControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.KHRSimpleControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.MetaQuestTouchPlusControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.MetaQuestTouchProControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.MicrosoftHandInteraction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.MicrosoftMotionControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.OculusTouchControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.PalmPoseInteraction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Interactions.ValveIndexControllerProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.Features.MetaQuestSupport.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.MetaQuestSupport.MetaQuestFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.Features.MockRuntime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.Mock.MockRuntime",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.OculusQuestSupport.OculusQuestFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.RuntimeDebugger.RuntimeDebuggerOpenXRFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.Features.SpaceWarpFeature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.OpenXR.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.OpenXR.OpenXRSettings",
             "moduleName": "",
             "usedInScenes": []
         }

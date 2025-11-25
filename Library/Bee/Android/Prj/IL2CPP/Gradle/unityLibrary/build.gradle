@@ -5,8 +5,8 @@ apply from: '../shared/common.gradle'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation(name: 'arcore_client', ext:'aar')
-    implementation(name: 'ARPresto', ext:'aar')
     implementation(name: 'UnityARCore', ext:'aar')
+    implementation(name: 'ARPresto', ext:'aar')
     implementation(name: 'unityandroidpermissions', ext:'aar')
     implementation project(':unityLibrary:xrmanifest.androidlib')
     implementation 'androidx.appcompat:appcompat:1.6.1'

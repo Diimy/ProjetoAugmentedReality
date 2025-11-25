@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name=":ARPresto:@aar"
-      jars="C:\Users\dimit\.gradle\caches\8.13\transforms\12461589c06e1c45607bff4b44b526aa\transformed\jetified-ARPresto\jars\classes.jar"
-      resolved=":ARPresto:"
-      folder="C:\Users\dimit\.gradle\caches\8.13\transforms\12461589c06e1c45607bff4b44b526aa\transformed\jetified-ARPresto"
+      name=":UnityARCore:@aar"
+      jars="C:\Users\dimit\.gradle\caches\8.13\transforms\4f7980f0d3229b661f58d198251ded08\transformed\jetified-UnityARCore\jars\classes.jar"
+      resolved=":UnityARCore:"
+      folder="C:\Users\dimit\.gradle\caches\8.13\transforms\4f7980f0d3229b661f58d198251ded08\transformed\jetified-UnityARCore"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name=":UnityARCore:@aar"
-      jars="C:\Users\dimit\.gradle\caches\8.13\transforms\4f7980f0d3229b661f58d198251ded08\transformed\jetified-UnityARCore\jars\classes.jar"
-      resolved=":UnityARCore:"
-      folder="C:\Users\dimit\.gradle\caches\8.13\transforms\4f7980f0d3229b661f58d198251ded08\transformed\jetified-UnityARCore"
+      name=":ARPresto:@aar"
+      jars="C:\Users\dimit\.gradle\caches\8.13\transforms\12461589c06e1c45607bff4b44b526aa\transformed\jetified-ARPresto\jars\classes.jar"
+      resolved=":ARPresto:"
+      folder="C:\Users\dimit\.gradle\caches\8.13\transforms\12461589c06e1c45607bff4b44b526aa\transformed\jetified-ARPresto"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

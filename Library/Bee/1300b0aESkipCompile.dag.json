@@ -29,7 +29,7 @@
       "DisplayName": "Writing 6097564273297756792.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 9025,
+      "PayloadLength": 10177,
       "PayloadDebugContentSnippet": "-a=\"C:\\Users\\dimit\\Documents\\G",
       "Inputs": [],
       "InputFlags": [],
@@ -83,7 +83,16 @@
         "Library/ScriptAssemblies/Unity.XR.ARFoundation.VisualScripting.dll",
         "Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll",
         "Library/ScriptAssemblies/Unity.XR.CoreUtils.dll",
+        "Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll",
+        "Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll",
         "Library/ScriptAssemblies/Unity.XR.Management.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MockRuntime.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+        "Library/ScriptAssemblies/Unity.XR.OpenXR.TestTooling.dll",
         "Library/ScriptAssemblies/Unity.XR.Simulation.dll",
         "Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll",
         "Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
@@ -106,6 +115,15 @@
         "Library/Bee/artifacts/rsp/6097564273297756792.rsp"
       ],
       "InputFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -462,7 +480,34 @@
       "File": "Library/ScriptAssemblies/Unity.XR.CoreUtils.dll"
     },
     {
+      "File": "Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll"
+    },
+    {
       "File": "Library/ScriptAssemblies/Unity.XR.Management.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MockRuntime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.OpenXR.TestTooling.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.XR.Simulation.dll"

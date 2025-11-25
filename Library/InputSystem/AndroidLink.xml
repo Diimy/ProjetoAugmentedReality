@@ -169,4 +169,38 @@
   <assembly fullname="Unity.XR.ARSubsystems">
     <type fullname="UnityEngine.XR.ARSubsystems.HandheldARInputDevice" preserve="all"/>
   </assembly>
+  <assembly fullname="Unity.XR.Interaction.Toolkit">
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.AR.Inputs.TouchscreenGestureInputController" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.AR.Inputs.TouchscreenGestureInputControllerState" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.ButtonFallbackComposite" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.FallbackComposite`1" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.IntegerFallbackComposite" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.QuaternionFallbackComposite" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.Vector3FallbackComposite" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Interactions.SectorInteraction" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedController" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedControllerState" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedHMD" preserve="all"/>
+    <type fullname="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedHMDState" preserve="all"/>
+  </assembly>
+  <assembly fullname="Unity.XR.OpenXR">
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.DPadInteraction/DPad" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.EyeGazeInteraction/EyeGazeDevice" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.HandCommonPosesInteraction/HandInteractionPoses" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.HandInteractionProfile/HandInteraction" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.HPReverbG2ControllerProfile/ReverbG2Controller" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.HTCViveControllerProfile/ViveController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.KHRSimpleControllerProfile/KHRSimpleController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.MetaQuestTouchPlusControllerProfile/QuestTouchPlusController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.MetaQuestTouchProControllerProfile/QuestProTouchController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.MicrosoftHandInteraction/HoloLensHand" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.MicrosoftMotionControllerProfile/WMRSpatialController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.OculusTouchControllerProfile/OculusTouchController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.PalmPoseInteraction/PalmPose" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Features.Interactions.ValveIndexControllerProfile/ValveIndexController" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Input.HapticControl" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Input.OpenXRDevice" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Input.OpenXRHmd" preserve="all"/>
+    <type fullname="UnityEngine.XR.OpenXR.Input.PoseControl" preserve="all"/>
+  </assembly>
 </linker>

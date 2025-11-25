@@ -1,4 +1,4 @@
-#Mon Nov 24 11:22:48 BRT 2025
+#Mon Nov 24 22:53:55 BRT 2025
 base.0=C\:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

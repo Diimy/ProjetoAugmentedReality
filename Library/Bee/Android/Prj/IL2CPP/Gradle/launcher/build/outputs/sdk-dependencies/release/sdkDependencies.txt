@@ -11,18 +11,18 @@ library {
 }
 library {
   maven_library {
-    artifactId: "ARPresto"
-  }
-  digests {
-    sha256: " y:\177O\036\366\272\355\376n\356\302@\214\271\227\312\310\340\212\022\322\357\002\342\t(GPN\202"
-  }
-}
-library {
-  maven_library {
     artifactId: "UnityARCore"
   }
   digests {
     sha256: "\343+W\236\326(\325.\277\n\225\220\345\367\314\250\b\034\230\372\371\f\220\200i*\"\207\353a\034P"
+  }
+}
+library {
+  maven_library {
+    artifactId: "ARPresto"
+  }
+  digests {
+    sha256: " y:\177O\036\366\272\355\376n\356\302@\214\271\227\312\310\340\212\022\322\357\002\342\t(GPN\202"
   }
 }
 library {
