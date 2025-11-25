@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SimEnvironment_Object_Force_XRay
-  m_Shader: {fileID: 4800000, guid: 910d3836c6f5c2a4492fb89eda5b4b86, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8dfc564b813aa8f4685ed5f2ed5df06a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -82,7 +82,7 @@ Material:
     - _Glossiness: 0.117
     - _GlossyReflections: 1
     - _Metallic: 0
-    - _Mode: 0
+    - _Mode: -1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueOffset: 0

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SimEnvironment_Object
-  m_Shader: {fileID: 4800000, guid: 6c4bf46f32019704e8b2efc0d062d054, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8dfc564b813aa8f4685ed5f2ed5df06a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
