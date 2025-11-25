@@ -16,7 +16,7 @@ Tudo o que existe é uma sensação de vazio… e de que algo precisa ser lembra
 ## 🎥 Vídeo demonstrativo do projeto
 
 
-
+É possível visualizar o vídeo do jogo sendo executado [aqui](https://youtu.be/7jRuFxx0cZI)
 
 
 ---
