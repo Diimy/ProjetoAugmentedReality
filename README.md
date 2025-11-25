@@ -11,6 +11,7 @@ Não lembra quem é.
 
 Tudo o que existe é uma sensação de vazio… e de que algo precisa ser lembrado.
 
+
 ---
 
 ## 🎥 Vídeo demonstrativo do projeto
@@ -22,7 +23,7 @@ Tudo o que existe é uma sensação de vazio… e de que algo precisa ser lembra
 ---
 
 
-## 🛰️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 ### ✔️ Unity (versão 6.3)
 
@@ -146,4 +147,6 @@ Você atravessa.
 
 ---
 
-Este projeto é para a realização da Matéria CIC904 - Multimida e Realidade Virtual
+## 🕹️ Como posso jogar⁉️
+
+Dentro dos arquivos desse repositório, busque pelo **ecos_da_memoria.apk** e baixe no seu dispositivo Android📱
