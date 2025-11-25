@@ -170,6 +170,26 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.xr.interaction.toolkit@3.3.0": {
+      "name": "com.unity.xr.interaction.toolkit",
+      "displayName": "XR Interaction Toolkit",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27",
+      "fingerprint": "4424268f6f279a8da3e9a4524cda7a4c5277050b",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "3.3.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.openxr@1.16.0": {
+      "name": "com.unity.xr.openxr",
+      "displayName": "OpenXR Plugin",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.xr.openxr@68fc1ed67a95",
+      "fingerprint": "68fc1ed67a95bc31c30f20f19ce603f41b2bac3d",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.16.0",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",
@@ -458,16 +478,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.mathematics@1.3.3": {
-      "name": "com.unity.mathematics",
-      "displayName": "Mathematics",
-      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.mathematics@19a9377c4ffa",
-      "fingerprint": "19a9377c4ffa59370edad3e6a34e4445529badde",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.3.3",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.xr.core-utils@2.5.3": {
       "name": "com.unity.xr.core-utils",
       "displayName": "XR Core Utilities",
@@ -485,6 +495,26 @@
       "fingerprint": "574ebfb1e9766bb5f6bdb255c6abfb195b43f4cb",
       "editorCompatibility": "2022.3.0a1",
       "version": "4.5.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.13": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "displayName": "XR Legacy Input Helpers",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@9535ff2c27ac",
+      "fingerprint": "9535ff2c27ac3e8dfb63877c36641a1cc1a48c14",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.13",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.3": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.mathematics@19a9377c4ffa",
+      "fingerprint": "19a9377c4ffa59370edad3e6a34e4445529badde",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.3",
       "source": "registry",
       "testable": false
     },
@@ -536,16 +566,6 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.xr.legacyinputhelpers@2.1.13": {
-      "name": "com.unity.xr.legacyinputhelpers",
-      "displayName": "XR Legacy Input Helpers",
-      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoAugmentedReality\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@9535ff2c27ac",
-      "fingerprint": "9535ff2c27ac3e8dfb63877c36641a1cc1a48c14",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.1.13",
-      "source": "registry",
       "testable": false
     },
     "com.unity.searcher@4.9.4": {
